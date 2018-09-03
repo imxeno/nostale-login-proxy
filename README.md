@@ -10,9 +10,9 @@ npm i nostale-login-proxy --save
 
 Examples
 --------
-Practical usage of both authentication and response middlewares is presented in [examples](https://github.com/imxeno/nostale-login-proxy/tree/master/examples).
-The `clientVersionSpoofer.js` file shows how to spoof client version by modifying authentication request.
-The `glacernonChannelInjector.js` file shows how to inject additional channels into the server list by modifying the response from a real login server.
+Practical usage of both authentication and response middlewares is presented in [examples](https://github.com/imxeno/nostale-login-proxy/tree/master/examples).  
+The `clientVersionSpoofer.js` file shows how to spoof client version by modifying authentication request.  
+The `glacernonChannelInjector.js` file shows how to inject additional channels into the server list by modifying the response from a real login server.  
 
 Constructor
 -----------
