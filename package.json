@@ -1,6 +1,6 @@
 {
   "name": "nostale-login-proxy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Node.js implementation of a login server proxy for NosTale.",
   "main": "index.js",
   "scripts": {
