@@ -8,6 +8,7 @@
   },
   "author": "Piotr Adamczyk <xeno@xeno.yt>",
   "license": "ISC",
+  "repository": "https://github.com/imxeno/nostale-login-proxy.git",
   "dependencies": {
     "iconv-lite": "0.4.24"
   }
