@@ -1,5 +1,10 @@
 NosTale login server proxy library
 ==================================
+[![npm version](https://img.shields.io/npm/v/nostale-login-proxy.svg)](https://npmjs.com/package/nostale-login-proxy)
+[![dependencies](https://img.shields.io/david/imxeno/nostale-login-proxy.svg)](https://david-dm.org/imxeno/nostale-login-proxy)
+![license](https://img.shields.io/npm/l/nostale-login-proxy.svg)
+[![paypal](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.me/devxeno/0usd)
+
 A Node.js implementation of a login server proxy for NosTale which can do whatever you want in an easy way.
 
 Installation
