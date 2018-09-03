@@ -1,7 +1,7 @@
 {
   "name": "nostale-login-proxy",
   "version": "1.0.0",
-  "description": "A NosTale login proxy.",
+  "description": "A Node.js implementation of a login server proxy for NosTale.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +9,15 @@
   "author": "Piotr Adamczyk <xeno@xeno.yt>",
   "license": "ISC",
   "repository": "https://github.com/imxeno/nostale-login-proxy.git",
+  "keywords": [
+    "nostale",
+    "login",
+    "proxy",
+    "nos",
+    "tale",
+    "xeno",
+    "xenostale"
+  ],
   "dependencies": {
     "iconv-lite": "0.4.24"
   }
